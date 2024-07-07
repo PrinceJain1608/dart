@@ -7,5 +7,5 @@ void main(){
   print("");
   stdout.write("Enter Your Name:");
   var name=stdin.readLineSync();  //to take input from user
-  print("Your Name is $name*5");
+  print("Your Name is $name");
 }

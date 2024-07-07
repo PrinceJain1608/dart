@@ -10,4 +10,4 @@ void main(){
   func();
 }
 
-void func()=>print("hello");
+void func()=>print("hello");  //arrow function  for single line statement

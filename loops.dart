@@ -27,3 +27,4 @@ print(" ");
   }while(j<address.length);
 
 }
+//break and continue are same as other programming languages

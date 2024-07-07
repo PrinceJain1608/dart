@@ -21,6 +21,8 @@ void main(){
  // int len=${greeting.length};
   print(greeting);
 
-  String dollar="\$25";
+  String dollar="\$25";  //$25
   print(dollar);
+
+  
 }
